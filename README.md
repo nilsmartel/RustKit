@@ -8,9 +8,7 @@ Clang 8.0 (currently trunk) with a [patch](https://reviews.llvm.org/D50318) is c
 
 ## Example
 
-```
-extern crate rustkit;
-
+```rust
 use rustkit::NSObject;
 
 fn main() {
